@@ -1,1 +1,1 @@
-We are making A landing page project as instructed by the odin project.
+Completed the Landping Page , provided as an assessment by The Odin Project.
